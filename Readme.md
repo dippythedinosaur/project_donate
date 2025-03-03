@@ -1,14 +1,14 @@
-#2023_Project_01
+# 2023_Project_01
 
 Project is written in Go.
 
-#Status
+# Status
 : 03-03-2025 Project framework only.  Not yet functional.
 
-#Purpose
+# Purpose
 The goal of the application is to allow the creation of a task structure for project management purposes.
 
-#Features
+# Features
 - It should be able to write its tasks out to Jira
 
 
